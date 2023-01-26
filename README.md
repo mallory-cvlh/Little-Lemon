@@ -4,7 +4,7 @@ Project from Coursera
 ## Links
 
 - [GitHub](https://github.com/mallory-cvlh/Little-Lemon)
-- [Live](https://mallory-cvlh.github.io/password-generator/)
+- [Live](https://mallory-cvlh.github.io/Little-Lemon/)
 
 ## Built with
 
