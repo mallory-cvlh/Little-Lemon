@@ -125,6 +125,7 @@ article:not(section:first-child article:first-child) {
     display: flex;
     flex: 1 1 10rem;
     flex-direction: column;
+    max-width: 28.667rem;
     padding: 1rem;
 }
 
